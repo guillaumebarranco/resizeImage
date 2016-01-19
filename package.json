@@ -1,0 +1,22 @@
+{
+  "name": "resizeimage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+
+  "dependencies": {
+  	"imagemagick": "~0.1.3"
+  },
+
+  "window": {
+  	"toolbar": false,
+  	"height": 300,
+  	"width": 300,
+  	"frame": true
+  }
+}
